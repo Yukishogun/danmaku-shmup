@@ -12,14 +12,6 @@ https://www.youtube.com/watch?v=WG1p5F4QgSQ
 
 ## Information
 
-### Pong
-
-A Pong clone can be found in branch Pong.
-
-### Space Invaders
-
-A Space Invaders clone (WIP) can be found in the master branch.
-
 ### Installation guide
 
 #### Windows
